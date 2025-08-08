@@ -3,7 +3,7 @@
 This is a collection of context-aware AI kits, fully integrated with the Meta XR SDK and Unity.  
 Vision kits are built to support Meta Camera Access (PCA).
 <br><br>
-<img src="SensAI.gif" width="700" />
+<img src="SensAI.gif" width="625" />
 <br><br>
 
 ## Table of Contents
@@ -34,7 +34,7 @@ A Unity plugin that enables real-world object detection in XR using Microsoft Fl
 
 
 #### GitHub: [Zero-Shot Object Detection Kit](https://github.com/lucas-martinic/Unity-MetaXR-AI-Florence2)  
-<br><br>
+<br>
 
 
 ## 2. 🤖 Custom AI Model Training Kit (Roboflow)
@@ -53,7 +53,7 @@ A Unity plugin that brings you custom-trained object detection to XR — powered
 
 
 #### GitHub: [Custom AI Model Training Kit](http://github.com/nigelhartm/MetaPCARoboflow)  
-<br><br>
+<br>
 
 ## 3. 🔊 Text-to-Speech Sample
 ### OpenAI TTS API
@@ -64,10 +64,10 @@ A Unity plugin that brings you custom-trained object detection to XR — powered
 
 
 #### GitHub: [XR AI Text to Speech](https://github.com/rikturnbull/xr-ai-text-to-speech)  
-<br><br>
+<br>
 
 ## 4. 📜 License
 By downloading and using these kits, you agree to the [License Terms](./LICENSE).
 
-<br><br>
+<br>
 
