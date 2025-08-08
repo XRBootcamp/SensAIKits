@@ -1,126 +1,116 @@
-# 
+\# SensAI Kits
 
-# \# SensAI Kits
 
-# 
 
 !\[](SensAI.gif)
 
 
 
-# This is a collection of context-aware AI kits, fully integrated with the Meta XR SDK and Unity.
+This is a collection of context-aware AI kits, fully integrated with the Meta XR SDK and Unity.  
 
-# Vision kits are built to support Meta Camera Access (PCA).
+Vision kits are built to support Meta Camera Access (PCA).
 
-# 
 
-# \## Table of Contents
 
-# 
+\## Table of Contents
 
-# 1\. \[Zero-Shot Object Detection Kit](#1-zero-shot-object-detection-kit)  
 
-# 2\. \[Custom AI Model Training Kit (Roboflow)](#2-custom-ai-model-training-kit-roboflow)  
 
-# 3\. \[Text-to-Speech Sample](#3-text-to-speech-sample)  
+1\. \[Zero-Shot Object Detection Kit](#1-zero-shot-object-detection-kit)  
 
-# 4\. \[License](#4-license)  
+2\. \[Custom AI Model Training Kit (Roboflow)](#2-custom-ai-model-training-kit-roboflow)  
 
-# 
+3\. \[Text-to-Speech Sample](#3-text-to-speech-sample)  
 
-# 
+4\. \[License](#4-license)  
 
-# \## Overview
 
-# 
 
-# 
+\## Overview
 
-# \##  1. 🎯 Zero-Shot Object Detection Kit
 
-# 
 
-# A Unity plugin that enables real-world object detection in XR using Microsoft Florence-2 on Meta Quest.
+\## 1. 🎯 Zero-Shot Object Detection Kit
 
-# 
 
-# \- Instantly detect objects in your environment with zero-shot AI (no training required)
 
-# \- Send image data from your Quest to the Florence API and receive rich detection \& description results  
+A Unity plugin that enables real-world object detection in XR using Microsoft Florence-2 on Meta Quest.
 
-# \- Fully integrated with Unity for easy setup and flexible use in XR workflows  
 
-# 
 
-# \###  ⚠️ Limitations
+\- Instantly detect objects in your environment with zero-shot AI (no training required)  
 
-# 
+\- Send image data from your Quest to the Florence API and receive rich detection \& description results  
 
-# \- \*\*Not Real-Time:\*\* API response times mean detection is fast but not instantaneous  
+\- Fully integrated with Unity for easy setup and flexible use in XR workflows  
 
-# \- \*\*Requires Internet:\*\* Wi-Fi needed to send images to the cloud API  
 
-# 
 
-# 
+\### ⚠️ Limitations
 
-# \##  3. 🤖 Custom AI Model Training Kit (Roboflow)
 
-# 
 
-# A Unity Plugin that brings you custom-trained object detection to XR - powered by Roboflow and optimized for Meta Quest.
+\- \*\*Not Real-Time:\*\* API response times mean detection is fast but not instantaneous  
 
-# 
+\- \*\*Requires Internet:\*\* Wi-Fi needed to send images to the cloud API  
 
-# \- Upload and annotate your own image datasets (capturing directly on Meta Quest recommended)  
 
-# \- Run models locally on-device for faster inference and offline use  
 
-# \- Fully integrate detection results into your Unity XR app  
+\## 2. 🤖 Custom AI Model Training Kit (Roboflow)
 
-# 
 
-# \###  ⚠️ Limitations
 
-# 
+A Unity plugin that brings you custom-trained object detection to XR — powered by Roboflow and optimized for Meta Quest.
 
-# \- \*\*Setup Time:\*\* Requires effort to collect, annotate, and train datasets  
 
-# \- \*\*CUDA \& Docker Setup Needed:\*\* See Roboflow’s repo \[here](https://github.com/roboflow/inference)  
 
-# 
+\- Upload and annotate your own image datasets (capturing directly on Meta Quest recommended)  
 
-# \*\*GitHub:\*\* \[Custom AI Model Training Kit](http://github.com/nigelhartm/MetaPCARoboflow)  
+\- Run models locally on-device for faster inference and offline use  
 
-# 
+\- Fully integrate detection results into your Unity XR app  
 
-# 
 
-# \##  4. 🔊 Text-to-Speech Sample
 
-# 
+\### ⚠️ Limitations
 
-# \### OpenAI TTS API
 
-# 
 
-# \- High-quality, natural English voices with low latency  
+\- \*\*Setup Time:\*\* Requires effort to collect, annotate, and train datasets  
 
-# \- Easy API integration and fast setup  
+\- \*\*CUDA \& Docker Setup Needed:\*\* See Roboflow’s repo \[here](https://github.com/roboflow/inference)  
 
-# \- Free tier includes ~3,000 sentences/month  
 
-# 
 
-# \*\*GitHub:\*\* \[XR AI Text to Speech](https://github.com/rikturnbull/xr-ai-text-to-speech)  
+\*\*GitHub:\*\* \[Custom AI Model Training Kit](http://github.com/nigelhartm/MetaPCARoboflow)  
 
-# 
 
-# \## 5. 📜 License
 
-# 
+\## 3. 🔊 Text-to-Speech Sample
 
-# By downloading and using these kits, you agree to the \[License Terms](https://www.notion.so/License-2473de6f5e3980b789cdcc30b6f10e75?pvs=21).
+
+
+\### OpenAI TTS API
+
+
+
+\- High-quality, natural English voices with low latency  
+
+\- Easy API integration and fast setup  
+
+\- Free tier includes ~3,000 sentences/month  
+
+
+
+\*\*GitHub:\*\* \[XR AI Text to Speech](https://github.com/rikturnbull/xr-ai-text-to-speech)  
+
+
+
+\## 4. 📜 License
+
+
+
+By downloading and using these kits, you agree to the \[License Terms](./LICENSE).
 
 
 
