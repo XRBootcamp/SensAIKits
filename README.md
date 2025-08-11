@@ -30,10 +30,11 @@ A Unity plugin that enables real-world object detection in XR using Microsoft Fl
 
 
 - **Not Real-Time:** API response times mean detection is fast but not instantaneous  
-- **Requires Internet:** Wi-Fi needed to send images to the cloud API  
+- **Requires Internet:** Wi-Fi needed to send images to the cloud API
+- **No Timestamps:** Bounding boxes are not time-synced  
 
 
-#### GitHub: [Zero-Shot Object Detection Kit](https://github.com/lucas-martinic/Unity-MetaXR-AI-Florence2)  
+#### GitHub: 👉 [Zero-Shot Object Detection Kit](https://github.com/lucas-martinic/Unity-MetaXR-AI-Florence2)  
 <br>
 
 
@@ -52,7 +53,7 @@ A Unity plugin that brings you custom-trained object detection to XR — powered
 - **CUDA & Docker Setup Needed:** See [Roboflow’s repo](https://github.com/roboflow/inference)  
 
 
-#### GitHub: [Custom AI Model Training Kit](http://github.com/nigelhartm/MetaPCARoboflow)  
+#### GitHub: 👉 [Custom AI Model Training Kit](http://github.com/nigelhartm/MetaPCARoboflow)  
 <br>
 
 ## 3. 🔊 Text-to-Speech Sample
@@ -63,7 +64,7 @@ A Unity plugin that brings you custom-trained object detection to XR — powered
 - Free tier includes ~3,000 sentences/month  
 
 
-#### GitHub: [XR AI Text to Speech](https://github.com/rikturnbull/xr-ai-text-to-speech)  
+#### GitHub: 👉 [XR AI Text to Speech](https://github.com/rikturnbull/xr-ai-text-to-speech)  
 <br>
 
 ## 4. 📜 License
