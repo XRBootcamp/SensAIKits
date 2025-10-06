@@ -8,17 +8,16 @@ Vision kits are built to support Meta Camera Access (PCA).
 ## 📝 Table of Contents
 
 1. [Zero-Shot Object Detection Kit](#1-zero-shot-object-detection-kit)  
-2. [Custom AI Model Training Kit (Roboflow)](#2-custom-ai-model-training-kit-roboflow)
-3. [Poker AI Assistant (Roboflow)](#3-custom-ai-model-training-kit-roboflow)   
-4. [Text-to-Speech Sample](#4-text-to-speech-sample)
-5. [Relevant Sources & Opportunities](#5-relevant-sources-and-opportunities)  
-6. [License](#6-license)  
+2. [Custom AI Model Training Kit (Roboflow)](#2-custom-ai-model-training-kit-roboflow)  
+3. [Poker AI Assistant (Roboflow)](#3-poker-ai-assistant-roboflow)  
+4. [Text-to-Speech Sample](#4-text-to-speech-sample)  
+5. [Relevant Sources & Opportunities](#5-relevant-sources--opportunities)  
+6. [License](#6-license)
 
 
 ## Overview
 
-<a name="#1-zero-shot-object-detection-kit"></a>
-## 1. 🎯 Zero-Shot Object Detection Kit
+## 1. Zero-Shot Object Detection Kit 🎯
 
 A Unity plugin that enables real-world object detection in XR using Microsoft Florence-2 on Meta Quest.
 <br>
@@ -40,7 +39,7 @@ A Unity plugin that enables real-world object detection in XR using Microsoft Fl
 
 ---
 
-## 2. 🤖 Custom AI Model Training Kit (Roboflow)
+## 2. Custom AI Model Training Kit (Roboflow) 🤖
 
 A Unity plugin that brings you custom-trained object detection to XR — powered by Roboflow and optimized for Meta Quest.
 <br>
@@ -63,7 +62,7 @@ A Unity plugin that brings you custom-trained object detection to XR — powered
 
 ---
 
-## 3. ♣️ Poker AI Assistant (Roboflow)
+## 3. Poker AI Assistant (Roboflow) ♣️
 
 A Meta Quest application that uses computer vision and Poker Odds API to calculate poker hand strenght in real time. 
 <br>
@@ -88,7 +87,7 @@ A Meta Quest application that uses computer vision and Poker Odds API to calcula
 
 ---
 
-## 4. 🔊 Text-to-Speech Sample
+## 4. Text-to-Speech Sample 🔊
 ### OpenAI TTS API
 
 - High-quality, natural English voices with low latency  
@@ -99,14 +98,14 @@ A Meta Quest application that uses computer vision and Poker Odds API to calcula
 
 ---
 
-## 5. 🔗 Relevant Sources & Opportunities
+## 5. Relevant Sources & Opportunities 🔗
 * [SensAI Hackademy](https://www.sensaihackademy.com) - Early access program for courses and toolkits
 * [SensAI Hack](https://sensaihack.com) - Upcoming hackathons where you can use the kits
 
 
 ---
 
-## 6. 📜 License
+## 6. License 📜
 By downloading and using these kits, you agree to the [License Terms](./LICENSE).
 
 <br>
