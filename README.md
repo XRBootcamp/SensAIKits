@@ -7,12 +7,12 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 ## 📝 Table of Contents
 
-1. [Zero-Shot Object Detection Kit](#1-zero-shot-object-detection-kit)  
-2. [Custom AI Model Training Kit (Roboflow)](#2-custom-ai-model-training-kit-roboflow)
-3. [Poker AI Assistant (Roboflow)](#3-custom-ai-model-training-kit-roboflow)   
-4. [Text-to-Speech Sample](#4-text-to-speech-sample)
-5. [Relevant Sources & Opportunities](#5-relevant-sources-and-opportunities)  
-6. [License](#6-license)  
+1. [🎯 Zero-Shot Object Detection Kit](#1-zero-shot-object-detection-kit)  
+2. [🤖 Custom AI Model Training Kit (Roboflow)](#2-custom-ai-model-training-kit-roboflow)
+3. [♣️ Poker AI Assistant (Roboflow)](#3-custom-ai-model-training-kit-roboflow)   
+4. [🔊 Text-to-Speech Sample](#4-text-to-speech-sample)
+5. [🔗 Relevant Sources & Opportunities](#5-relevant-sources-and-opportunities)  
+6. [📜 License](#6-license)  
 
 
 ## Overview
