@@ -19,7 +19,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 ## 1. Zero-Shot Object Detection Kit
 
-A Unity plugin that enables real-world object detection in XR using Microsoft Florence-2 on Meta Quest.
+🎯 A Unity plugin that enables real-world object detection in XR using Microsoft Florence-2 on Meta Quest.
 <br>
 - Instantly detect objects in your environment with zero-shot AI (no training required)  
 - Send image data from your Quest to the Florence API and receive rich detection \& description results  
@@ -41,7 +41,7 @@ A Unity plugin that enables real-world object detection in XR using Microsoft Fl
 
 ## 2. Custom AI Model Training Kit (Roboflow)
 
-A Unity plugin that brings you custom-trained object detection to XR — powered by Roboflow and optimized for Meta Quest.
+🤖 A Unity plugin that brings you custom-trained object detection to XR — powered by Roboflow and optimized for Meta Quest.
 <br>
 - Upload and annotate your own image datasets (capturing directly on Meta Quest recommended)  
 - Run models locally on-device for faster inference and offline use  
@@ -64,7 +64,7 @@ A Unity plugin that brings you custom-trained object detection to XR — powered
 
 ## 3. Poker AI Assistant (Roboflow)
 
-A Meta Quest application that uses computer vision and Poker Odds API to calculate poker hand strenght in real time. 
+♣️ A Meta Quest application that uses computer vision and Poker Odds API to calculate poker hand strenght in real time. 
 <br>
 - Detects poker cards and calculates odds and win probabilities
 - Runs 100,000+ simulations for highly accurate predictions using the Poker Odds API
@@ -88,7 +88,7 @@ A Meta Quest application that uses computer vision and Poker Odds API to calcula
 ---
 
 ## 4. Text-to-Speech Sample
-### OpenAI TTS API
+### OpenAI TTS API 🔊
 
 - High-quality, natural English voices with low latency  
 - Easy API integration and fast setup  
@@ -106,7 +106,7 @@ A Meta Quest application that uses computer vision and Poker Odds API to calcula
 ---
 
 ## 6. License
-By downloading and using these kits, you agree to the [License Terms](./LICENSE).
+📜 By downloading and using these kits, you agree to the [License Terms](./LICENSE).
 
 <br>
 
