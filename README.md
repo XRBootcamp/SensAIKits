@@ -3,7 +3,8 @@
 This is a collection of context-aware AI kits, fully integrated with the Meta XR SDK and Unity.  
 Vision kits are built to support Meta Camera Access (PCA).
 
-![SensAI-Banner](https://github.com/user-attachments/assets/7ce447b7-a2d9-4071-8819-48219510b37b)
+![output-onlinegiftools (1)](https://github.com/user-attachments/assets/61759309-e613-454c-a5c1-4fc4c0aaf1ef)
+
 
 ## 📝 Table of Contents
 
