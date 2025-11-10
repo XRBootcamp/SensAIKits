@@ -8,17 +8,35 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 ## 📝 Table of Contents
 
-1. [Zero-Shot Object Detection Kit](#1-zero-shot-object-detection-kit)  
-2. [Custom AI Model Training Kit (Roboflow)](#2-custom-ai-model-training-kit-roboflow)  
-3. [Poker AI Assistant (Roboflow)](#3-poker-ai-assistant-roboflow)  
-4. [Text-to-Speech Sample](#4-text-to-speech-sample)  
+1. [AI Capabilities Workbench](#1-ai-capabilities-workbench) 
+2. [Zero-Shot Object Detection Kit](#2-zero-shot-object-detection-kit)  
+3. [Custom AI Model Training Kit (Roboflow)](#3-custom-ai-model-training-kit-roboflow)  
+4. [Poker AI Assistant (Roboflow)](#4-poker-ai-assistant-roboflow)  
 5. [Relevant Sources & Opportunities](#5-relevant-sources--opportunities)  
 6. [License](#6-license)
 
 
 ## Overview
 
-## 1. Zero-Shot Object Detection Kit
+## 1. AI Capabilities Workbench
+
+🎯 A Unity based workbench implementing 7 workflows and 10 providers, to bring contextual AI to your apps. Compatible with Meta Quest.
+<br>
+- Multi-AI Provider Support – Supports Nvidia, OpenAI, Google Gemini, Groq, Roboflow, Stability AI, and AWS  
+- Pre-configured scenes with easy API key management, enabling quick AI-powered XR prototypes 
+
+<br>
+
+:warning: Limitations
+* **Requires API Keys:** Users must register with the AI providers and configure their own API keys for detection to work  
+* **Requires Internet:** Some of the workflows send calls to cloud API
+
+
+#### GitHub: 👉 [AI Capabilities Workbench](https://github.com/rikturnbull/xr-ai-workbench)  
+
+---
+
+## 2. Zero-Shot Object Detection Kit
 
 🎯 A Unity plugin that enables real-world object detection in XR using Microsoft Florence-2 on Meta Quest.
 <br>
@@ -40,7 +58,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 ---
 
-## 2. Custom AI Model Training Kit (Roboflow)
+## 3. Custom AI Model Training Kit (Roboflow)
 
 🤖 A Unity plugin that brings you custom-trained object detection to XR — powered by Roboflow and optimized for Meta Quest.
 <br>
@@ -63,7 +81,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 ---
 
-## 3. Poker AI Assistant (Roboflow)
+## 4. Poker AI Assistant (Roboflow)
 
 ♣️ A Meta Quest application that uses computer vision and Poker Odds API to calculate poker hand strenght in real time. 
 <br>
@@ -85,17 +103,6 @@ Vision kits are built to support Meta Camera Access (PCA).
 #### GitHub: 👉 [Poker AI Assistant](https://github.com/nigelhartm/PokerAssistant)  
 
 <img src="https://github.com/user-attachments/assets/c402f050-0691-433a-8fe6-0327efd08412" alt="MetaPCARoboflow" width="540px">
-
----
-
-## 4. Text-to-Speech Sample
-### OpenAI TTS API 🔊
-
-- High-quality, natural English voices with low latency  
-- Easy API integration and fast setup  
-- Free tier includes ~3,000 sentences/month  
-
-#### GitHub: 👉 [XR AI Text to Speech](https://github.com/rikturnbull/xr-ai-text-to-speech)  
 
 ---
 
