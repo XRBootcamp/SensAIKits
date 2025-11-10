@@ -32,7 +32,9 @@ Vision kits are built to support Meta Camera Access (PCA).
 * **Requires Internet:** Some of the workflows send calls to cloud API
 
 
-#### GitHub: 👉 [AI Capabilities Workbench](https://github.com/rikturnbull/xr-ai-workbench)  
+#### GitHub: 👉 [AI Capabilities Workbench](https://github.com/rikturnbull/xr-ai-workbench) 
+
+<img src="https://github.com/user-attachments/assets/ca964a49-e796-4770-bb2c-70bd92232aa9" alt="AICapabilities" width="540px">
 
 ---
 
