@@ -54,7 +54,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 * **No Timestamps:** Bounding boxes are not time-synced  
 
 
-#### GitHub: 👉 [Zero-Shot Object Detection Kit](https://github.com/lucas-martinic/Unity-MetaXR-AI-Florence2)  
+#### GitHub: 👉 [Zero-Shot Object Detection Kit](https://github.com/lucas-martinic/Unity-MetaXR-AI-ZeroShot)  
 
 <img src="https://github.com/user-attachments/assets/ba80ee67-4df4-44df-9e82-703a6ceef27f" alt="MetaPCARoboflow" width="540px">
 
